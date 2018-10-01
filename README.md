@@ -1,5 +1,5 @@
 # Worker Pool
-Simple completely generic job queue for golang. It handles only job distribution and nothing more. Based on [Malwarebytes blog](https://geeks.uniplaces.com/building-a-worker-pool-in-golang-1e6c0fdfd78c)
+Simple completely generic job queue for golang. It handles only job distribution and nothing more. Based on Malwarebytes blog and their [Handling 1M requests per minute post](http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/).
 
 # Example usage
 
